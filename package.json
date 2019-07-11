@@ -1,6 +1,7 @@
-{  "author":"priya",
+{  
    "name": "new-typeorm-project",
    "version": "0.0.1",
+   "author":"priya",
    "license": "MIT",
    "description": "Awesome project developed with TypeORM.",
    "devDependencies": {
